@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67096583837",
+    "project_id": "door-dash-clone-de2f4",
+    "storage_bucket": "door-dash-clone-de2f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67096583837:android:a0ab2595b82f8e06c47e74",
+        "android_client_info": {
+          "package_name": "com.doordashclone.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjUhG_jdde5b2SkdTDxPMXVF1WBPfeDI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
